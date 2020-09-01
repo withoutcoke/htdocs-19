@@ -1,0 +1,1203 @@
+# Translation of Plugins - Ivory Search &#8211; WordPress Search Plugin - Stable (latest release) in Chinese (China)
+# This file is distributed under the same license as the Plugins - Ivory Search &#8211; WordPress Search Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-18 19:19:50+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Plugins - Ivory Search &#8211; WordPress Search Plugin - Stable (latest release)\n"
+
+#: admin/class-is-admin.php:240
+msgid "Thank you for using"
+msgstr "谢谢您的使用"
+
+#: admin/class-is-admin.php:242
+msgid "support forum"
+msgstr "支持论坛"
+
+#: public/class-is-ajax.php:617
+msgid "SKU:"
+msgstr "SKU:"
+
+#: admin/class-is-admin.php:241
+msgid "settings"
+msgstr "设置"
+
+#: admin/class-is-admin.php:265
+msgid "Hey %s, it's Vinod Dalvi from %s. You have used this free plugin for some time now, and I hope you like it!"
+msgstr "嗨，%s,我是来自%s的 Vinod Dalvi . 您已经使用这个免费插件一段时间了，希望您喜欢它！"
+
+#: admin/class-is-admin.php:243
+msgid "contact us"
+msgstr "联系我们"
+
+#: admin/class-is-help.php:80
+msgid "Clones that search form. A cloned search form inherits all content from the original, but has a different ID."
+msgstr "克隆搜索表单。 克隆的搜索表单会继承原始内容的所有内容，但具有不同的ID。"
+
+#: admin/class-is-admin.php:270
+msgid "Review Ivory Search"
+msgstr "评论 Ivory Search"
+
+#: public/class-is-ajax.php:493
+msgid "Tagged with:"
+msgstr "标签为:"
+
+#: admin/class-is-admin.php:271
+msgid "No, thanks"
+msgstr "不了，谢谢"
+
+#: admin/class-is-help.php:84
+msgid "is the title of a search form. This title is only used for labeling a search form, and can be edited."
+msgstr "是搜索表单的标题。 该标题仅用于标记搜索表单，并且可以进行编辑。"
+
+#: admin/class-is-editor.php:1401 admin/class-is-help.php:136
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: admin/class-is-admin.php:220
+msgid "Thanks :)"
+msgstr "谢谢:)"
+
+#: includes/class-is-admin-public.php:177
+msgid "Text Box Placeholder"
+msgstr "文本框占位符"
+
+#: admin/class-is-editor.php:1517
+msgid "SKU"
+msgstr "SKU"
+
+#: includes/class-is-admin-public.php:190
+msgid "Search Button"
+msgstr "搜索按钮"
+
+#: admin/class-is-editor.php:2295
+msgid "Search All Or Any Search Terms"
+msgstr "搜索全部或任何搜索词"
+
+#: admin/class-is-editor.php:1717
+msgid "Random"
+msgstr "随机"
+
+#: admin/class-is-editor.php:1658
+msgid "Product List"
+msgstr "产品列表"
+
+#: admin/class-is-editor.php:1442 admin/class-is-editor.php:1712
+msgid "Price"
+msgstr "价格"
+
+#: admin/class-is-settings-fields.php:201
+msgid "Plugin Files"
+msgstr "插件文件"
+
+#: admin/class-is-settings-fields.php:847
+msgid "Please separate multiple words with commas."
+msgstr "请用英文逗号分隔多个词。"
+
+#: admin/class-is-help.php:16 admin/class-is-help.php:30
+#: admin/class-is-help.php:54
+msgid "Overview"
+msgstr "概览"
+
+#: public/class-is-ajax.php:594
+msgid "Out of stock"
+msgstr "缺货"
+
+#: admin/class-is-settings-fields.php:891
+msgid "Do not load plugin CSS files"
+msgstr "不加载插件CSS文件"
+
+#: admin/class-is-editor.php:1753
+msgid "DESC"
+msgstr "降序"
+
+#: admin/class-is-editor.php:1032
+msgid "Content"
+msgstr "内容"
+
+#: admin/class-is-editor.php:1215
+msgid "Configure the plugin text displayed in the search results."
+msgstr "配置显示在搜索结果中的插件文本。"
+
+#: admin/class-is-editor.php:1748
+msgid "ASC"
+msgstr "升序"
+
+#: admin/class-is-admin.php:201 admin/class-is-help.php:110
+msgid "Docs"
+msgstr "文档"
+
+#: admin/class-is-admin.php:733
+msgid "You are not allowed to reset this item."
+msgstr "您无权重置此项目。"
+
+#: admin/class-is-admin.php:636
+msgid "You are not allowed to edit this item."
+msgstr "您无权编辑此项目。"
+
+#: admin/class-is-admin.php:801
+msgid "You are not allowed to delete this item."
+msgstr "您无权删除此项目。"
+
+#: admin/class-is-admin.php:762
+msgid "You are not allowed to copy this item."
+msgstr "您无权复制此项目。"
+
+#: admin/class-is-settings-fields.php:979
+msgid "Warning: Use with caution."
+msgstr "警告：请谨慎使用。"
+
+#: admin/class-is-admin.php:202
+msgid "Visit plugin customer support"
+msgstr "访问插件客户支持"
+
+#: admin/class-is-editor.php:938 admin/class-is-editor.php:964
+#: admin/class-is-editor.php:1418
+msgid "Enable AJAX Search"
+msgstr "启用AJAX搜索"
+
+#: admin/class-is-settings-fields.php:159
+msgid "Custom CSS"
+msgstr "自定义CSS"
+
+#: admin/class-is-settings-fields.php:547
+#: admin/class-is-settings-fields.php:703
+#: admin/class-is-settings-fields.php:771 includes/class-is-widget.php:85
+msgid "Create New"
+msgstr "新建"
+
+#: admin/class-is-help.php:89
+msgid "Control here which content you want to make searchable using this search form."
+msgstr "在此处控制您要使用此搜索表单使哪些内容可搜索。"
+
+#: admin/class-is-settings-fields.php:892
+msgid "Do not load plugin JavaScript files"
+msgstr "不加载插件JavaScript文件"
+
+#: admin/class-is-settings-fields.php:988
+msgid "Do not use Default Search Form to control WordPress default search functionality"
+msgstr "不要使用默认搜索表单来控制WordPress默认搜索功能"
+
+#: includes/class-is-widget.php:14
+msgid "Displays ivory search form."
+msgstr "显示 搜索 表单."
+
+#: admin/class-is-admin.php:239 admin/class-is-admin.php:263
+msgid "Dismiss"
+msgstr "忽略"
+
+#: admin/class-is-editor.php:2376
+msgid "Disable this search form"
+msgstr "禁用此搜索表单"
+
+#: admin/class-is-settings-fields.php:1002
+msgid "Disable search functionality on entire website"
+msgstr "在整个网站上禁用搜索功能"
+
+#: admin/class-is-help.php:93
+msgid "Control here the overall behaviour of this search form."
+msgstr "在此控制此搜索表单的整体行为。"
+
+#: admin/class-is-help.php:91
+msgid "Configure the options here to exclude specific content from search perfomed using this search form."
+msgstr "在此处配置选项，以从使用此搜索表单进行的搜索中排除特定内容。"
+
+#: includes/class-is-widget.php:56
+msgid "Title:"
+msgstr "标题:"
+
+#: admin/class-is-editor.php:2150
+msgid "This search form is configured in the %s section to search posts created by specific authors."
+msgstr "%s部分中配置了此搜索表单，以搜索特定作者创建的文章。"
+
+#: admin/class-is-editor.php:2064
+msgid "This search form is configured in the %s section to search specific attachments."
+msgstr " %s部分中配置了此搜索表单，以搜索特定的附件。"
+
+#: admin/class-is-admin.php:450
+msgid "There was an error saving the search form."
+msgstr "保存搜索表单时出错。"
+
+#: admin/class-is-editor.php:1897
+msgid "The search form is configured in the %s section to only search specific posts of another post type."
+msgstr "在 %s部分中将搜索表单配置为仅搜索其他文章类型的特定文章。"
+
+#: admin/class-is-settings-fields.php:871
+msgid "The format here is key = value"
+msgstr "此处的格式为 键=值"
+
+#: admin/class-is-admin.php:78
+msgid "The changes you made will be lost if you navigate away from this page."
+msgstr "如果您离开此页面，所做的更改将丢失。"
+
+#: admin/class-is-editor.php:1345
+msgid "Text for the \"View All\" which shown at the bottom of the search result."
+msgstr "搜索结果底部显示的“查看全部”的文本。"
+
+#: admin/class-is-editor.php:1275
+msgid "Text for the \"More Results..\"."
+msgstr "“更多结果..”的文本。"
+
+#: admin/class-is-editor.php:1124
+msgid "Tags"
+msgstr "标签"
+
+#: public/class-is-ajax.php:299 public/partials/is-ajax-results.php:22
+msgid "Tag"
+msgstr "标签"
+
+#: admin/class-is-settings-fields.php:173
+msgid "Synonyms"
+msgstr "同义词"
+
+#: includes/class-is-admin-public.php:163
+msgid "Style 3"
+msgstr "样式 3"
+
+#: includes/class-is-admin-public.php:159
+msgid "Style 2"
+msgstr "样式 2"
+
+#: includes/class-is-admin-public.php:155
+msgid "Style 1"
+msgstr "样式 1"
+
+#: admin/class-is-settings-fields.php:166
+msgid "Stopwords"
+msgstr "停用词"
+
+#: admin/class-is-editor.php:1542
+msgid "Stock Status"
+msgstr "库存状态"
+
+#: admin/class-is-editor.php:1255
+msgid "Show 'More Results..' text in the bottom of the search results box"
+msgstr "在搜索结果框的底部显示“更多结果..”文本"
+
+#: admin/class-is-editor.php:2320
+msgid "Select whether to search posts having whole or partial word being searched."
+msgstr "选择是搜索具有完整词还是部分词的文章。"
+
+#: admin/class-is-editor.php:2300
+msgid "Select whether to search posts having all or any of the words being searched."
+msgstr "选择是否要搜索具有全部或任何单词的文章。"
+
+#: admin/class-is-editor.php:2378
+msgid "Select whether to display an error when user perform search without any search word."
+msgstr "选择当用户在没有任何搜索词的情况下执行搜索时是否显示错误。"
+
+#: admin/class-is-settings-fields.php:722
+msgid "Select search form to display in site footer."
+msgstr "选择搜索表单以显示在网站页脚中。"
+
+#: admin/class-is-settings-fields.php:497
+msgid "Select search form that will control menu search functionality."
+msgstr "选择将控制菜单搜索功能的搜索表单。"
+
+#: admin/class-is-settings-fields.php:410
+msgid "Select menu search form style."
+msgstr "选择菜单搜索表单样式。"
+
+#: admin/class-is-admin.php:577
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221; 的搜索结果"
+
+#: admin/class-is-editor.php:1210
+msgid "Search results box max height."
+msgstr "搜索结果框的最大高度。"
+
+#: admin/class-is-editor.php:730
+msgid "Search posts without passwords"
+msgstr "搜索没有密码的文章"
+
+#: admin/class-is-editor.php:505
+msgid "Search post title %s( File title )%s"
+msgstr "搜索文章标题%s(文件标题)%s"
+
+#: admin/class-is-editor.php:511
+msgid "Search post excerpt %s( File caption )%s"
+msgstr "搜索文章摘要%s(文件标题)%s"
+
+#: admin/class-is-editor.php:508
+msgid "Search post content %s( File description )%s"
+msgstr "搜索文章内容%s(文件描述)%s"
+
+#: admin/class-is-admin.php:502 admin/class-is-admin.php:503
+#: admin/class-is-admin.php:568 includes/class-is-search-form.php:59
+msgid "Search Forms"
+msgstr "搜索表单"
+
+#: admin/class-is-editor.php:1322
+msgid "View All Result - Show link to search results page at the bottom of search results block."
+msgstr "查看所有结果-显示搜索结果区块底部的搜索结果页面链接。"
+
+#: admin/class-is-editor.php:900
+msgid "View All"
+msgstr "查看所有"
+
+#: admin/class-is-admin.php:457
+msgid "Validation error occurred."
+msgstr "发生验证错误。"
+
+#: admin/class-is-editor.php:837
+msgid "Use below customizer to customize search form colors, text and search form style."
+msgstr "使用以下定制器自定义搜索表单的颜色，文本和搜索表单的样式。"
+
+#: includes/class-is-widget.php:67
+msgid "Search Form:"
+msgstr "搜索表单:"
+
+#: includes/class-is-admin-public.php:151
+msgid "Search form submit button field style."
+msgstr "搜索表单提交按钮字段样式。"
+
+#: admin/class-is-admin.php:435
+msgid "Search form saved."
+msgstr "搜索表单已保存。"
+
+#: admin/class-is-admin.php:439
+msgid "Search form reset."
+msgstr "搜索表单重置。"
+
+#: admin/class-is-admin.php:437
+msgid "Search form deleted."
+msgstr "搜索表单已删除。"
+
+#: admin/class-is-editor.php:847
+msgid "Search Form Customizer"
+msgstr "搜索表单定制器"
+
+#: admin/class-is-admin.php:433
+msgid "Search form created."
+msgstr "搜索表单已创建。"
+
+#: includes/class-is-search-form.php:60
+msgid "Search Form"
+msgstr "搜索表单"
+
+#: admin/class-is-editor.php:514
+msgid "Search category/tag title %s( Displays posts of the category/tag )%s"
+msgstr "搜索类别/标签标题 %s（显示类别/标签的文章）%s"
+
+#: admin/class-is-editor.php:517
+msgid "Search category/tag description %s( Displays posts of the category/tag )%s"
+msgstr "搜索类别/标签描述 %s（显示类别/标签的文章）%s"
+
+#: admin/class-is-editor.php:1370
+msgid "Search button displays search results page"
+msgstr "搜索按钮显示搜索结果页面"
+
+#: admin/class-is-editor.php:1389
+msgid "Search button displays ajax search results"
+msgstr "搜索按钮显示ajax搜索结果"
+
+#: admin/class-is-editor.php:2122 admin/class-is-editor.php:2124
+msgid "Search all author posts"
+msgstr "搜索所有作者文章"
+
+#: admin/class-is-editor.php:102 admin/partials/search-form.php:114
+#: includes/class-is-admin-public.php:186 includes/class-is-search-form.php:469
+#: includes/class-is-search-form.php:537 public/class-is-public.php:238
+#: public/class-is-public.php:291
+msgid "Search"
+msgstr "搜索"
+
+#: admin/class-is-admin.php:1030
+msgid "Save Form"
+msgstr "保存表单"
+
+#: admin/class-is-editor.php:1722
+msgid "Sales"
+msgstr "营业额"
+
+#: public/class-is-ajax.php:669
+msgid "Sale!"
+msgstr "特价！"
+
+#: admin/class-is-editor.php:2198
+msgid "Posts Per Page"
+msgstr "每页文章数"
+
+#: admin/class-is-settings-fields.php:417
+msgid "Popup"
+msgstr "弹出"
+
+#: admin/class-is-admin.php:475
+msgid "Please make sure you have not selected similar %s fields in the search form %s and %s sections."
+msgstr "请确保您没有在搜索表单%s和%s部分中选择相似的%s字段。"
+
+#: admin/class-is-editor.php:1414
+msgid "Please first configure this search form in the %s section to search WooCommerce product post type."
+msgstr "请先在%s 部分中配置此搜索表单，以搜索WooCommerce产品文章类型。"
+
+#: admin/class-is-settings-fields.php:874
+msgid "Please add every synonyms key = value pairs on new line."
+msgstr "请在新的每一行上添加每一对同义词 健=值。"
+
+#: admin/class-is-editor.php:2227
+msgid "Order Search Results"
+msgstr "排序搜寻结果"
+
+#: admin/class-is-editor.php:1694
+msgid "Order by"
+msgstr "排序方式"
+
+#: admin/class-is-editor.php:1735
+msgid "Order"
+msgstr "排序"
+
+#: admin/class-is-editor.php:2343
+msgid "Not recommended to use when Fuzzy Matching option is set to Whole."
+msgstr "当“模糊匹配”选项设置为“整体”时，不建议使用。"
+
+#: admin/class-is-admin.php:320
+msgid "No posts found"
+msgstr "未找到文章"
+
+#: admin/class-is-settings-fields.php:342
+msgid "Navigation menu location is not registered on the site."
+msgstr "导航菜单位置未在站点上注册。"
+
+#: admin/class-is-editor.php:903
+msgid "More Results.."
+msgstr "更多结果.."
+
+#: public/class-is-ajax.php:71
+msgid "More results"
+msgstr "更多结果"
+
+#: admin/class-is-settings-fields.php:194
+msgid "Mobile Search"
+msgstr "移动端搜索"
+
+#: admin/class-is-editor.php:1193
+msgid "Minimum number of characters required to run ajax search."
+msgstr "运行ajax搜索所需的最小字符数。"
+
+#: admin/class-is-admin.php:520 admin/class-is-admin.php:521
+#: admin/class-is-help.php:59 admin/class-is-help.php:96
+msgid "Menu Search"
+msgstr "菜单搜索"
+
+#: admin/class-is-editor.php:1617
+msgid "Matching Tags"
+msgstr "匹配标签"
+
+#: admin/class-is-editor.php:1592
+msgid "Matching Categories"
+msgstr "匹配分类"
+
+#: includes/class-is-search-form.php:415
+msgid "Invalid search form."
+msgstr "无效的搜索表单。"
+
+#: public/class-is-ajax.php:594
+msgid "In stock"
+msgstr "有货"
+
+#: admin/class-is-editor.php:1074
+msgid "Image"
+msgstr "图像"
+
+#: admin/class-is-admin.php:220
+msgid "If you like %1$s please leave us a %2$s rating. A huge thanks in advance!"
+msgstr "如果您喜欢%1$s，请给我们 %2$s的评分。 先表示非常感谢！"
+
+#: admin/class-is-settings-fields.php:862
+msgid "If you add bird = crow to the list of synonyms, searches for bird automatically become a search for bird crow and will thus match to posts that include either bird or crow."
+msgstr "如果将bird = crow添加到同义词列表中，则搜索bird会自动成为对bird crow的搜索，因此将与包含bird或crow的文章匹配。"
+
+#: admin/class-is-settings-fields.php:800
+msgid "If this site uses cache then please select the below option to display search form on mobile."
+msgstr "如果该站点使用缓存，则请选择以下选项以在移动设备上显示搜索表单。"
+
+#: admin/class-is-help.php:78
+msgid "Hovering over a row in the search forms list will display action links that allow you to manage your search form. You can perform the following actions:"
+msgstr "将鼠标悬停在搜索表单列表中的一行上将显示操作链接，您可以管理搜索表单。 您可以执行以下操作："
+
+#: admin/class-is-editor.php:2283
+msgid "Highlight searched terms on search results page"
+msgstr "在搜索结果页面上突出显示搜索词"
+
+#: admin/class-is-editor.php:2276
+msgid "Highlight Search Terms"
+msgstr "突出显示搜索词"
+
+#: admin/class-is-editor.php:1467
+msgid "Hide Price for Out of Stock Products"
+msgstr "隐藏缺货产品的价格"
+
+#: admin/class-is-settings-fields.php:180
+msgid "Header Search"
+msgstr "页头搜索"
+
+#: admin/class-is-editor.php:2316
+msgid "Fuzzy Matching"
+msgstr "模糊匹配"
+
+#: admin/class-is-help.php:109
+msgid "For more information:"
+msgstr "获得更多信息："
+
+#: admin/class-is-editor.php:2342
+msgid "For Example: If you search \"doing\" then it also searches base word of \"doing\" that is \"do\" in the specified post types."
+msgstr "例如：如果您搜索“doing”，那么它还会在指定的文章类型中搜索“doing”的基本单词“do”。"
+
+#: admin/class-is-settings-fields.php:187
+msgid "Footer Search"
+msgstr "页脚搜索"
+
+#: admin/class-is-admin.php:592
+msgid "Find Search Forms"
+msgstr "找到搜索表单"
+
+#: admin/class-is-editor.php:1676
+msgid "Featured Products"
+msgstr "特色产品"
+
+#: admin/class-is-editor.php:1567 public/class-is-ajax.php:410
+msgid "Featured Icon"
+msgstr "特色图标"
+
+#: admin/class-is-editor.php:486 admin/class-is-editor.php:2083
+msgid "Extras"
+msgstr "其他"
+
+#: admin/class-is-editor.php:2031
+msgid "Excluded File Types :"
+msgstr "排除的文件类型："
+
+#: admin/class-is-editor.php:2048
+msgid "Exclude Videos"
+msgstr "排除的视频"
+
+#: admin/class-is-editor.php:2052
+msgid "Exclude Text Files"
+msgstr "排除文本文件"
+
+#: admin/class-is-editor.php:2170
+msgid "Exclude sticky posts from search"
+msgstr "从搜索中排除置顶文章"
+
+#: admin/class-is-editor.php:1905
+msgid "Exclude selected %s from search"
+msgstr "从搜索中排除选定的%s"
+
+#: admin/class-is-editor.php:2042
+msgid "Exclude selected  MIME types from search"
+msgstr "从搜索中排除所选的MIME类型"
+
+#: admin/class-is-editor.php:2165
+msgid "Exclude posts from search having selected post statuses."
+msgstr "从已选择的文章状态的搜索中排除帖子。"
+
+#: admin/class-is-editor.php:2054
+msgid "Exclude PDF Files"
+msgstr "排除PDF文件"
+
+#: admin/class-is-editor.php:2046
+msgid "Exclude Images"
+msgstr "排除图像"
+
+#: admin/class-is-editor.php:2056
+msgid "Exclude Document Files"
+msgstr "排除文档文件"
+
+#: admin/class-is-editor.php:2050
+msgid "Exclude Audios"
+msgstr "排除音频"
+
+#: admin/class-is-editor.php:1996
+msgid "Exclude 'Out of Stock' products from search"
+msgstr "从搜索中排除“缺货”产品"
+
+#: admin/class-is-editor.php:1983
+msgid "Exclude %s from search having selected custom fields"
+msgstr "从已选择自定义字段的搜索中排除%s"
+
+#: admin/class-is-editor.php:1014
+msgid "Excerpt"
+msgstr "摘要"
+
+#: admin/class-is-admin.php:804
+msgid "Error in deleting."
+msgstr "删除时出错。"
+
+#: admin/class-is-editor.php:801 admin/class-is-editor.php:830
+msgid "Enable Search Form Customization"
+msgstr "启用自定义搜索表单"
+
+#: admin/class-is-settings-fields.php:888
+msgid "Enable below options to disable loading of plugin CSS and JavaScript files."
+msgstr "启用以下选项可禁用插件CSS和JavaScript文件的加载。"
+
+#: admin/class-is-editor.php:1903
+msgid "Do not exclude any %s from search"
+msgstr "不要从搜索中排除任何%s"
+
+#: admin/class-is-editor.php:967
+msgid "Display selected content in the search results."
+msgstr "在搜索结果中显示所选内容。"
+
+#: admin/class-is-editor.php:2373
+msgid "Display search form only for site administrator"
+msgstr "仅针对网站管理员显示搜索表单"
+
+#: admin/class-is-editor.php:2231
+msgid "Display posts on search results page ordered by selected options."
+msgstr "在搜索结果页面上显示文章（按选定选项排序）。"
+
+#: admin/class-is-editor.php:2382
+msgid "Display an error for empty search query"
+msgstr "显示空搜索查询错误"
+
+#: admin/class-is-editor.php:1642
+msgid "Details Box"
+msgstr "描述框"
+
+#: admin/class-is-editor.php:1052
+msgid "Description Length."
+msgstr "描述长度"
+
+#: admin/class-is-editor.php:992
+msgid "Description"
+msgstr "描述"
+
+#: admin/class-is-editor.php:819 includes/class-is-search-form.php:563
+msgid "Customizer"
+msgstr "定制器"
+
+#: admin/class-is-help.php:101
+msgid "Configure options in this section to manage sitewide search functionality."
+msgstr "配置本节中的选项以管理站点范围内的搜索功能。"
+
+#: admin/class-is-editor.php:1352
+msgid "Configure how the search button should work clicking on it."
+msgstr "配置单击搜索按钮的方式。"
+
+#: admin/class-is-help.php:99
+msgid "Cofigure the options in this section to manage search added in the site navigation menu."
+msgstr "配置此部分中的选项以管理添加到站点导航菜单中的搜索。"
+
+#: admin/class-is-admin.php:157
+msgid "Click on the search form title to edit it."
+msgstr "单击搜索表单标题进行编辑。"
+
+#: public/class-is-ajax.php:297 public/partials/is-ajax-results.php:33
+msgid "Category"
+msgstr "分类"
+
+#: admin/class-is-editor.php:1652
+msgid "Below options only apply to matching categories or tags."
+msgstr "以下选项仅适用于匹配的类别或标签。"
+
+#: admin/class-is-help.php:21
+msgid "Available Actions"
+msgstr "可进行的操作"
+
+#: admin/class-is-editor.php:1671
+msgid "All Product"
+msgstr "全部产品"
+
+#: includes/class-is-admin-public.php:133
+msgid "AJAX loader image."
+msgstr "AJAX加载器图像。"
+
+#: admin/class-is-settings-fields.php:569
+msgid "Add multiple classes seperated by space."
+msgstr "添加多个以空格分隔的类。"
+
+#: admin/class-is-settings-fields.php:484
+msgid "Add menu title to display in place of search icon."
+msgstr "添加菜单标题以代替搜索图标显示。"
+
+#: admin/class-is-settings-fields.php:576
+msgid "Add Google Custom Search( CSE ) search form code that will replace default search form."
+msgstr "添加谷歌自定义搜索(CSE)搜索表单代码，替换默认的搜索表单。"
+
+#: admin/class-is-settings-fields.php:560
+msgid "Add class to search form menu item."
+msgstr "将类添加到搜索表单菜单项。"
+
+#: admin/class-is-help.php:137
+msgid "Activate %s plugin to use this option."
+msgstr "激活 %s 插件以使用此选项。"
+
+#: admin/class-is-admin.php:201
+msgid "View Ivory Search documentation"
+msgstr "查看 Ivory Search 文档资料"
+
+#: admin/class-is-admin.php:1040
+msgid "Upgrade to Pro to Access"
+msgstr "升级到Pro以访问"
+
+#: admin/class-is-admin.php:1046
+msgid "Upgrade to Pro Plus to Access"
+msgstr "升级到Pro Plus可访问"
+
+#: includes/class-is-search-form.php:112 includes/class-is-search-form.php:206
+msgid "Untitled"
+msgstr "无标题"
+
+#: admin/class-is-editor.php:1681
+msgid "On-sale Products</option>"
+msgstr "特价商品</option>"
+
+#: admin/class-is-editor.php:897 public/class-is-ajax.php:68
+msgid "Nothing found"
+msgstr "没有发现"
+
+#: admin/class-is-admin.php:1043
+msgid "Install Premium Version to Access"
+msgstr "安装Premium版本可访问"
+
+#: admin/class-is-editor.php:2349
+msgid "Also search base word of searched keyword"
+msgstr "同时搜索搜索关键词的基本词"
+
+#: admin/class-is-help.php:83
+msgid "On this screen, you can edit a search form. A search form is comprised of the following components:"
+msgstr "在此屏幕上，您可以编辑搜索表单。 搜索表单包含以下组件："
+
+#: admin/class-is-help.php:95
+msgid "On this screen, you can manage search added in the site navgation menu and configure settings that will affect all search forms and search functionality on the site. The settings screen comprised of the following sections:"
+msgstr "在此屏幕上，您可以管理添加到网站导航菜单中的搜索，并配置将影响网站上所有搜索表单和搜索功能的设置。 设置屏幕包括以下部分："
+
+#: admin/class-is-help.php:76
+msgid "On this screen, you can manage search forms provided by Ivory Search plugin. You can create and manage an unlimited number of search forms. Each search form has a unique ID and search form shortcode ([ivory-search ...]). To insert a search form into a post or a text widget, insert the shortcode into the target."
+msgstr "在此屏幕上，您可以管理由Ivory Search插件提供的搜索表单。 您可以创建和管理无限数量的搜索表单。 每个搜索表单都有唯一的ID和搜索表单简码([ivory-search ...])。 要将搜索表单插入到文章或文本小工具中，请将简码插入目标中。"
+
+#: admin/class-is-editor.php:1232
+msgid "Text when there is no search results. HTML tags is allowed."
+msgstr "没有搜索结果时的文字。 允许使用HTML标签。"
+
+#: admin/class-is-editor.php:2341
+msgid "Select whether to search the base word of a searched keyword."
+msgstr "选择是否搜索搜索关键词的基本词。"
+
+#: includes/class-is-admin-public.php:130
+#: public/partials/is-ajax-results.php:144
+msgid "Loader Image"
+msgstr "加载器图像"
+
+#: admin/class-is-editor.php:2101
+msgid "Exclude posts from search created by selected authors."
+msgstr "从选定作者创建的搜索中排除文章。"
+
+#: admin/class-is-editor.php:2325
+msgid "Whole - Search posts that include the whole search term"
+msgstr "整体-包含整个搜索字词的搜索文章"
+
+#: admin/class-is-editor.php:2305
+msgid "OR - Display content having any of the search terms"
+msgstr "OR - 显示包含任何搜索词的内容"
+
+#: admin/class-is-editor.php:2370
+msgid "Display sticky posts to the start of the search results page"
+msgstr "在搜索结果页面的开头显示置顶文章"
+
+#: admin/class-is-editor.php:1421
+msgid "Display selected WooCommerce content in the search results."
+msgstr "在搜索结果中显示选定的WooCommerce内容。"
+
+#: admin/class-is-editor.php:2307
+msgid "AND - Display content having all the search terms"
+msgstr "AND - 显示包含所有搜索词的内容"
+
+#: admin/class-is-list-table.php:31 admin/class-is-help.php:84
+msgid "Title"
+msgstr "标题"
+
+#: admin/class-is-editor.php:271 admin/class-is-editor.php:329
+#: admin/class-is-editor.php:368 admin/class-is-editor.php:423
+#: admin/class-is-editor.php:1872 admin/class-is-editor.php:1933
+#: admin/class-is-editor.php:1968 admin/class-is-editor.php:2020
+msgid "Search.."
+msgstr "搜索.."
+
+#: admin/class-is-editor.php:451
+msgid "Search Videos"
+msgstr "搜索视频"
+
+#: admin/class-is-editor.php:455
+msgid "Search Text Files"
+msgstr "搜索文本文件"
+
+#: admin/class-is-editor.php:151
+msgid "Search selected post types."
+msgstr "搜索选择的文章类型"
+
+#: admin/class-is-editor.php:667
+msgid "Search author Display Name and display the posts created by that author"
+msgstr "搜索作者的显示名称并显示该作者创建的文章"
+
+#: admin/class-is-editor.php:453
+msgid "Search Audios"
+msgstr "搜索音频"
+
+#: admin/class-is-editor.php:711
+msgid "Search approved comment content"
+msgstr "搜索已批准的评论内容"
+
+#: admin/partials/search-form.php:182
+msgid "Save"
+msgstr "保存"
+
+#: admin/partials/search-form.php:192
+msgid "Reset"
+msgstr "重置"
+
+#: admin/partials/search-form.php:134 admin/class-is-help.php:45
+#: admin/class-is-help.php:87
+msgid "Options"
+msgstr "选项"
+
+#: admin/class-is-list-table.php:154 admin/class-is-settings-fields.php:695
+#: admin/class-is-settings-fields.php:763 admin/class-is-help.php:79
+#: includes/class-is-widget.php:83 includes/class-is-search-form.php:559
+msgid "Edit"
+msgstr "编辑"
+
+#: admin/class-is-list-table.php:164 admin/partials/search-form.php:188
+#: admin/class-is-help.php:80
+msgid "Duplicate"
+msgstr "重复"
+
+#: admin/class-is-list-table.php:115 admin/class-is-list-table.php:178
+#: admin/partials/search-form.php:173 admin/class-is-help.php:81
+msgid "Delete"
+msgstr "删除"
+
+#: admin/class-is-editor.php:737 admin/class-is-editor.php:1174
+#: admin/class-is-editor.php:1707 admin/class-is-list-table.php:33
+msgid "Date"
+msgstr "日期"
+
+#: admin/class-is-list-table.php:223
+msgid "d/m/Y"
+msgstr "d/m/Y"
+
+#: admin/partials/search-form.php:205 admin/partials/settings-form.php:108
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: admin/class-is-editor.php:214 admin/class-is-editor.php:1800
+msgid "( WooCommerce )"
+msgstr "( WooCommerce )"
+
+#: admin/class-is-editor.php:217 admin/class-is-editor.php:1803
+msgid "( Images, Videos, Audios, Docs, PDFs, Files & Attachments  )"
+msgstr "(图片、视频、音频、文档、PDF、文件及附件)"
+
+#: admin/class-is-list-table.php:221
+msgid "%s ago"
+msgstr "%s 之前"
+
+#: admin/partials/search-form.php:203 admin/partials/settings-form.php:106
+msgid "Documentation"
+msgstr "文献资料"
+
+#: admin/class-is-editor.php:457
+msgid "Search PDF Files"
+msgstr "搜索PDF文件"
+
+#: admin/class-is-editor.php:471 admin/class-is-editor.php:2068
+msgid "You are using WordPress version less than 4.9 which does not support searching by MIME type."
+msgstr "您使用的WordPress版本低于4.9，不支持按MIME类型进行搜索。"
+
+#: admin/partials/search-form.php:192
+msgid ""
+"You are about to reset this search form.\n"
+"  'Cancel' to stop, 'OK' to reset."
+msgstr ""
+"您将要重置此搜索表单。\n"
+"“取消”停止，“确定”重置。"
+
+#: admin/class-is-list-table.php:177 admin/partials/search-form.php:173
+msgid ""
+"You are about to delete this search form.\n"
+"  'Cancel' to stop, 'OK' to delete."
+msgstr ""
+"您将要删除此搜索表单。\n"
+"“取消”停止，“确定”删除。"
+
+#. translators: %s: title of search form
+#: admin/class-is-list-table.php:144
+msgid "Edit &#8220;%s&#8221;"
+msgstr "编辑 &#8220;%s&#8221;"
+
+#: admin/class-is-admin.php:156 admin/class-is-settings-fields.php:539
+#: admin/partials/search-form.php:23
+msgid "Edit Search Form"
+msgstr "编辑搜索表单"
+
+#: admin/partials/search-form.php:92
+msgid "Copy this shortcode and paste it into your post, page, or text widget content:"
+msgstr "复制此简码并将其粘贴到您的文章，页面或文本小工具内容中："
+
+#: admin/class-is-editor.php:675
+msgid "Comments"
+msgstr "评论"
+
+#: admin/class-is-editor.php:203
+msgid "Do not display post_type in the search URL"
+msgstr "不要在搜索网址中显示post_type"
+
+#: admin/class-is-editor.php:467
+msgid "This search form is configured in the %s section to not search specific MIME types."
+msgstr "%s部分中配置此搜索表单，不搜索特定的MIME类型。"
+
+#: admin/class-is-editor.php:659
+msgid "This search form is configured in the %s section to not search for specific author posts."
+msgstr "%s部分中将此搜索表单配置，不搜索特定的作者文章。"
+
+#: admin/class-is-admin.php:202 admin/partials/search-form.php:204
+#: admin/partials/settings-form.php:107 admin/class-is-help.php:111
+msgid "Support"
+msgstr "技术支持"
+
+#: admin/class-is-list-table.php:32
+msgid "Shortcode"
+msgstr "短代码"
+
+#: admin/class-is-editor.php:434
+msgid "Selected File Types :"
+msgstr "选定的文件类型："
+
+#: admin/class-is-editor.php:176 admin/class-is-editor.php:178
+msgid "Select Post Types"
+msgstr "选择文章类型"
+
+#: admin/class-is-editor.php:585
+msgid "Select Post Status"
+msgstr "选择文章状态"
+
+#: admin/class-is-editor.php:631 admin/class-is-editor.php:633
+msgid "Searches all author posts"
+msgstr "搜索所有作者文章"
+
+#: admin/class-is-editor.php:382
+msgid "Search selected %s custom fields values"
+msgstr "搜索选定的%s个自定义字段值"
+
+#: admin/class-is-editor.php:398
+msgid "Search product variation"
+msgstr "搜索产品变化"
+
+#: admin/class-is-editor.php:395
+msgid "Search product SKU"
+msgstr "搜索产品 SKU"
+
+#: admin/class-is-editor.php:728
+msgid "Search posts with passwords"
+msgstr "搜索有密码的文章"
+
+#: admin/class-is-editor.php:726
+msgid "Search posts with or without passwords"
+msgstr "搜索带有或不带有密码的文章"
+
+#: admin/class-is-editor.php:565
+msgid "Search posts having selected post statuses."
+msgstr "搜索具有选定文章状态的文章。"
+
+#: admin/class-is-editor.php:685
+msgid "Search posts having number of comments"
+msgstr "搜索有一定评论数的文章"
+
+#: admin/class-is-editor.php:742
+msgid "Search posts created only in the specified date range."
+msgstr "搜索仅在指定日期范围内创建的文章。"
+
+#: admin/class-is-editor.php:611
+msgid "Search posts created by selected authors."
+msgstr "搜索由选定作者创建的文章。"
+
+#: admin/class-is-editor.php:303
+msgid "Search only selected %s"
+msgstr "只搜索选定的%s"
+
+#: admin/class-is-editor.php:445
+msgid "Search only selected  MIME types"
+msgstr "只搜索选定的MIME类型"
+
+#: admin/class-is-editor.php:449
+msgid "Search Images"
+msgstr "搜索图像"
+
+#: admin/class-is-editor.php:459
+msgid "Search Document Files"
+msgstr "搜索文档文件"
+
+#: admin/class-is-editor.php:443 admin/class-is-editor.php:2040
+msgid "Search all MIME types"
+msgstr "搜索所有MIME类型"
+
+#: admin/class-is-editor.php:301
+msgid "Search all %s"
+msgstr "搜索所有%s"
+
+#: admin/class-is-editor.php:353
+msgid "Search %s of only selected taxonomies (%s categories, tags & terms %s)"
+msgstr "只搜索选定分类的%s (%s类别、标签和项目%s)"
+
+#: admin/class-is-editor.php:141
+msgid "Post Types"
+msgstr "文章类型"
+
+#: admin/class-is-editor.php:560 admin/class-is-editor.php:2160
+msgid "Post Status"
+msgstr "文章状态"
+
+#: admin/class-is-editor.php:719
+msgid "Password Protected"
+msgstr "密码保护"
+
+#: admin/class-is-editor.php:282 admin/class-is-editor.php:1883
+msgid "No %s created."
+msgstr "没有创建%s."
+
+#: admin/class-is-editor.php:701
+msgid "NA"
+msgstr "NA"
+
+#: admin/class-is-editor.php:275 admin/class-is-editor.php:1876
+msgid "Load All"
+msgstr "全部载入"
+
+#. Plugin Name of the plugin
+#. Author of the plugin
+#: admin/class-is-admin.php:220 admin/class-is-admin.php:492
+#: admin/class-is-admin.php:493 includes/class-is-widget.php:13
+#: includes/class-is-admin-public.php:94
+msgid "Ivory Search"
+msgstr "Ivory Search"
+
+#: admin/class-is-admin.php:529 admin/partials/settings-form.php:20
+msgid "Ivory Search Settings"
+msgstr "Ivory Search 设置"
+
+#: admin/class-is-editor.php:284 admin/class-is-editor.php:341
+#: admin/class-is-editor.php:378 admin/class-is-editor.php:431
+#: admin/class-is-editor.php:1885 admin/class-is-editor.php:1942
+#: admin/class-is-editor.php:1979 admin/class-is-editor.php:2028
+msgid "Hold down the control (ctrl) or command button to select multiple options."
+msgstr "按住control（ctrl）或command按钮以选择多个选项。"
+
+#: admin/class-is-editor.php:747
+msgid "From"
+msgstr "从"
+
+#: admin/class-is-editor.php:144 admin/class-is-editor.php:489
+#: admin/class-is-editor.php:953 admin/class-is-editor.php:1819
+#: admin/class-is-editor.php:2086 admin/class-is-editor.php:2201
+#: admin/class-is-editor.php:2362 admin/class-is-settings-fields.php:109
+msgid "Expand All"
+msgstr "展开全部"
+
+#: admin/class-is-admin.php:459 admin/class-is-admin.php:468
+#: admin/class-is-help.php:40 admin/class-is-help.php:86
+msgid "Excludes"
+msgstr "排除"
+
+#: admin/class-is-editor.php:146 admin/class-is-editor.php:491
+#: admin/class-is-editor.php:956 admin/class-is-editor.php:1821
+#: admin/class-is-editor.php:2088 admin/class-is-editor.php:2203
+#: admin/class-is-editor.php:2364 admin/class-is-settings-fields.php:111
+msgid "Collapse All"
+msgstr "全部收缩"
+
+#: admin/class-is-editor.php:606 admin/class-is-editor.php:2096
+msgid "Authors"
+msgstr "作者"
+
+#: admin/class-is-editor.php:1149
+msgid "Author"
+msgstr "作者"
+
+#: admin/partials/search-form.php:129
+msgid "AJAX"
+msgstr "AJAX"
+
+#: admin/class-is-admin.php:511 admin/class-is-admin.php:574
+#: admin/partials/search-form.php:21 admin/partials/search-form.php:31
+msgid "Add New Search Form"
+msgstr "添加新的搜索表单"
+
+#: admin/class-is-editor.php:747
+msgid "To"
+msgstr "到"
+
+#: admin/class-is-admin.php:458 admin/class-is-admin.php:465
+#: admin/class-is-help.php:35 admin/class-is-help.php:85
+msgid "Includes"
+msgstr "包含"
+
+#: admin/class-is-list-table.php:210
+msgid "Y/m/d g:i:s A"
+msgstr "Y/m/d g:i:s A"
+
+#: admin/partials/search-form.php:206
+msgid "Rate Ivory Search"
+msgstr "评价 Ivory Search"
+
+#: admin/class-is-settings-fields.php:810
+msgid "This site uses cache"
+msgstr "本网站使用缓存"
+
+#: admin/class-is-settings-fields.php:477
+msgid "Display search form close icon"
+msgstr "显示搜索表单关闭图标"
+
+#: includes/class-is-admin-public.php:150
+msgid "Search Form Style"
+msgstr "搜索表单样式："
+
+#: admin/class-is-editor.php:196
+msgid "No post types registered on the site."
+msgstr "该网站上没有注册的文章类型。"
+
+#: admin/class-is-settings-fields.php:796
+msgid "Display search form in site header on mobile devices"
+msgstr "在移动设备的页头中显示搜索表单"
+
+#: admin/class-is-admin.php:181 admin/class-is-admin.php:530
+#: admin/class-is-help.php:64 admin/class-is-help.php:97
+msgid "Settings"
+msgstr "设置"
+
+#: admin/class-is-admin.php:243
+msgid "or"
+msgstr "或"
+
+#: admin/class-is-settings-fields.php:416
+msgid "Full Width"
+msgstr "全宽"
+
+#: admin/class-is-settings-fields.php:413
+msgid "Default"
+msgstr "默认"
+
+#: admin/class-is-settings-fields.php:415
+msgid "Sliding"
+msgstr "滑动"
+
+#: admin/class-is-settings-fields.php:945
+msgid "If checked, you have to add following plugin files code into your child theme JavaScript file."
+msgstr "如果选中，则必须在主题JavaScript文件中添加以下插件文件代码。"
+
+#: admin/partials/settings-form.php:109 admin/class-is-help.php:112
+msgid "Give us a rating"
+msgstr "给我们一个评价"
+
+#: admin/class-is-settings-fields.php:414
+msgid "Dropdown"
+msgstr "下拉菜单"
+
+#: admin/class-is-settings-fields.php:926
+msgid "If checked, you have to add following plugin file code into your child theme CSS file."
+msgstr "如果选中，则必须在主题CSS文件中添加以下插件文件代码。"

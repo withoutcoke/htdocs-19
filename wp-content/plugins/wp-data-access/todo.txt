@@ -1,0 +1,69 @@
+*** BUGS ***
+
++ After updating a table design the user (sometimes) has to reconcile to reflect the real database table structure
++ Recreate repository not working as expected on WordPress multisite
++ Cannot not use Screen Options for child tables when having more than one child tabs
++ Data Project pages not editable when a remote host is down (solution: use ajax to fill listboxes; does this apply to other plugin pages as well?)
++ Disable caching for all javascript ajax calls
++ When you perform a reconcile, your lookup database/table combinations are messed up (Amy)
+
+*** WORK IN PROGRESS ***
+
++ Add premium videos
++ SSL test, see: https://blog.amezmo.com/how-to-enable-ssl-in-wordpress-without-plugins/
++ Built layer around wpdb class to limit dcl, ddl and some dml access to admin users only
++ Load attachment in TEXT column to allow full-text indexing
++ Add remove remote database connection to documentation
++ Add Export to PDF to publication (support forum Danielle)
++ Add setting: allow only add existing + delete relationship on child tables for n:m relationship (Mieke)
++ Make parent readonly and child editable (forum support - larryhines)
++ Is it possible to add data to the relationship table in a n:m relationship (Michiel)
++ Use parent column value in child default where (forum support - bb-4)
++ Edit set with checkboxes instead of multi line listbox (Michiel)
++ Overwrite media in WordPress media library (Michiel)
+
++ Showing child rows in edit mode (single child with back-next buttons) (vincent)
++ Add forward/backward buttons to data entry forms related to selection in Data Explorer (form post #12275882 - dizwell)
+
++ Create unique element IDs for parent and child tables having the same column name
++ Capitalize text input (Wolter)
++ Change recreate repository button/action to repair repository
++ Add default order by to Data Projects page (parent) (forum support #12394953 - mitfi)
++ Allow to export view data from bulk actions menu (forum support #12131944 - dsbking)
++ Add awesome video tutorials on how to create a scheduled export (comment nacho)
+
++ Update videos
++ Add videos to documentation
+  + Data Backup tool
+  + Data Explorer
+  + Data Designer
+  + Data Menus
+
+*** RESEACRH ***
+
++ Use custom posts in a Data Project
++ Complex registration page (parent-child)
++ View building (including unique row identification)
++ Add new entry to lookup (Chiara)
++ Perform searching and sorting with ajax WPDA_List_Table (forum support #12470588 - sarveon)
+
+*** NEXT & FEATURE REQUESTS ***
+
++ Search on date column (from-to) (forum: georg2791 - #12490607)
++ Display multiple lookup columns
++ Implement foreign keys in Data Designer
++ Implement compare in Data Designer
++ Use GET and POST vars (old and new) in default where (form post #12232151 - khansadi)
++ Add media to export for media columns
++ Disable edit mode for parent and enable mode for child (form post #11889053 - wpsd2006)
++ Nested lookup in ADD and EDIT page (review wmuskie) already done???
++ Number field formatting
+  + Display a float number with 2 decimal places, or no decimal places etc.
+  + For extra credit a way to display the integer 305623456 as 305-62-3456
+  + A way to display leading 0s so 123 would display as 000123
++ Field formatting e.g. phone number, credit card (review wmuskie)
++ Create and modify views (support forum #11907073 - @Gbade)
++ Backup data to Google Drive and OneDrive
++ Improve table availability check on menu construction
++ Export posts related to static pages in data projects (id +  author)
++ Is it possible to add grid editing with DataTables as an add-on? (YES) (forum post #11660769)

@@ -1,0 +1,1107 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Popularis Extra\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-12-12 13:43+0100\n"
+"PO-Revision-Date: 2019-11-07 16:20+0200\n"
+"Last-Translator: \n"
+"Language-Team: Themes4WP <info@themes4wp.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e;esc_html__;esc_html_e;esc_attr__;esc_attr_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/notify/notify.php:62
+msgid "Leave A Review?"
+msgstr ""
+
+#: includes/notify/notify.php:63
+#, php-format
+msgid "We hope you've enjoyed using %1$s theme! Would you consider leaving us a review on WordPress.org?"
+msgstr ""
+
+#: includes/notify/notify.php:68
+msgid "Sure! I'd love to!"
+msgstr ""
+
+#: includes/notify/notify.php:74
+msgid "I've already left a review"
+msgstr ""
+
+#: includes/notify/notify.php:80
+msgid "Maybe Later"
+msgstr ""
+
+#: includes/notify/notify.php:86
+msgid "Found a bug!"
+msgstr ""
+
+#: includes/notify/notify.php:92
+msgid "Never show again"
+msgstr ""
+
+#: includes/notify/notify.php:172
+msgid "Go PRO for More Features"
+msgstr ""
+
+#: includes/notify/notify.php:174
+#, php-format
+msgid "Get the %1$s for more stunning elements, demos and customization options."
+msgstr ""
+
+#: includes/notify/notify.php:180
+msgid "Show me more"
+msgstr ""
+
+#: includes/notify/notify.php:186
+msgid "Hide this message"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:34
+#: includes/panel/assets/class-plugin-installer.php:503
+#: includes/panel/demos.php:410
+msgid "Install Now"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:63
+#: includes/panel/assets/class-plugin-installer.php:143
+#: includes/panel/assets/class-plugin-installer.php:505
+#: includes/panel/demos.php:415
+msgid "Activated"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:67
+#: includes/panel/assets/class-plugin-installer.php:147
+#: includes/panel/assets/class-plugin-installer.php:504
+#: includes/panel/demos.php:404
+msgid "Activate"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:95
+#: includes/panel/assets/class-plugin-installer.php:201
+msgid "By"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:103
+#: includes/panel/assets/class-plugin-installer.php:236
+msgid "More Details"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:225
+msgid "Get This Plugin"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:242
+msgid "Premium"
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:258
+msgid "Sorry, you are not allowed to install plugins on this site."
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:268
+#: includes/panel/assets/class-plugin-installer.php:338
+#: includes/panel/assets/class-plugin-installer.php:409
+msgid "Error - unable to verify nonce, please try again."
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:326
+#: includes/panel/assets/class-plugin-installer.php:397
+msgid "Sorry, you are not allowed to activate plugins on this site."
+msgstr ""
+
+#: includes/panel/assets/class-plugin-installer.php:502
+msgid "Are you sure you want to install this plugin?"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:32
+#: includes/panel/classes/class-install-demos.php:36
+#: includes/panel/classes/class-install-demos.php:57 popularis-extra.php:144
+msgid "Install Demos"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:61
+msgid "Are you ready to create an amazing website? "
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:61
+#: includes/wizard/wizard.php:116
+msgid "Run the Setup Wizard"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:79
+#: includes/wizard/wizard.php:424
+msgid "All"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:86
+msgid "Search demos..."
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:112
+msgid "PRO"
+msgstr ""
+
+#: includes/panel/classes/class-install-demos.php:121
+#: includes/wizard/wizard.php:457
+msgid "Live Preview"
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:44
+#: includes/panel/classes/importers/class-parsers.php:76
+#: includes/panel/classes/importers/class-parsers.php:84
+msgid "There was an error when reading this WXR file"
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:45
+msgid "Details are shown above. The importer will now try again with a different parser..."
+msgstr ""
+
+#: includes/panel/classes/importers/class-parsers.php:88
+#: includes/panel/classes/importers/class-parsers.php:93
+#: includes/panel/classes/importers/class-parsers.php:312
+#: includes/panel/classes/importers/class-parsers.php:512
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:84
+msgid "Sidebar does not exist in theme (moving widget to Inactive)"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:106
+msgid "Site does not support widget"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:127
+msgid "Widget already exists"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:185
+msgid "Imported"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:189
+msgid "Imported to Inactive"
+msgstr ""
+
+#: includes/panel/classes/importers/class-widget-importer.php:195
+msgid "No Title"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:130
+#: includes/panel/classes/importers/class-wordpress-importer.php:139
+#: includes/panel/classes/importers/class-wordpress-importer.php:190
+#: includes/panel/classes/importers/class-wordpress-importer.php:194
+#: includes/panel/classes/importers/class-wordpress-importer.php:203
+msgid "Sorry, there has been an error."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:131
+msgid "The file does not exist, please try again."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:174
+msgid "All done."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:174
+msgid "Have fun!"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:175
+msgid "Remember to update the passwords and roles of imported users."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:195
+#, php-format
+msgid "The export file could not be found at <code>%s</code>. It is likely that this was caused by a permissions problem."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:211
+#, php-format
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:236
+#, php-format
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:262
+msgid "Assign Authors"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:263
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:265
+#, php-format
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:275
+msgid "Import Attachments"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:278
+msgid "Download and import file attachments"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:282
+msgid "Submit"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:295
+msgid "Import author:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:307
+msgid "or create new user with login name:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:310
+msgid "as a new user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:318
+msgid "assign posts to an existing user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:320
+msgid "or assign posts to an existing user:"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:321
+msgid "- Select -"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:371
+#, php-format
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:424
+#, php-format
+msgid "Failed to import category %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:468
+#, php-format
+msgid "Failed to import post tag %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:519
+#: includes/panel/classes/importers/class-wordpress-importer.php:741
+#, php-format
+msgid "Failed to import %s %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:608
+#, php-format
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:645
+#, php-format
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:707
+#, php-format
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:872
+msgid "Menu item skipped due to missing menu slug"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:879
+#, php-format
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:957
+msgid "Fetching attachments is not enabled"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:970
+msgid "Invalid file type"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1014
+msgid "Remote server did not respond"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1020
+#, php-format
+msgid "Remote server returned error response %1$d %2$s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1027
+msgid "Remote file is incorrect size"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1032
+msgid "Zero size file downloaded"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1038
+#, php-format
+msgid "Remote file is too large, limit is %s"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1137
+msgid "Import WordPress"
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1144
+#, php-format
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1159
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr ""
+
+#: includes/panel/classes/importers/class-wordpress-importer.php:1160
+msgid "Choose a WXR (.xml) file to upload, then click Upload file and import."
+msgstr ""
+
+#: includes/panel/demos.php:94 includes/wizard/wizard.php:177
+msgid "There was a problem during the importing process resulting in the following error from your server:"
+msgstr ""
+
+#: includes/panel/demos.php:95 includes/wizard/wizard.php:178
+msgid "Activating"
+msgstr ""
+
+#: includes/panel/demos.php:96 includes/wizard/wizard.php:179
+msgid "Active"
+msgstr ""
+
+#: includes/panel/demos.php:283 includes/wizard/classes/WizardAjax.php:44
+#, php-format
+msgid "Import the %1$s demo"
+msgstr ""
+
+#: includes/panel/demos.php:290 includes/wizard/classes/WizardAjax.php:51
+#, php-format
+msgid "Importing demo data allow you to quickly edit everything instead of creating content from scratch. It is recommended uploading sample data on a fresh WordPress install to prevent conflicts with your current content. You can use this plugin to reset your site if needed: %1$sWordpress Database Reset%2$s."
+msgstr ""
+
+#: includes/panel/demos.php:297 includes/wizard/classes/WizardAjax.php:56
+msgid "Required Plugins"
+msgstr ""
+
+#: includes/panel/demos.php:298 includes/wizard/classes/WizardAjax.php:57
+msgid "For your site to look exactly like this demo, the plugins below need to be activated."
+msgstr ""
+
+#: includes/panel/demos.php:311 includes/wizard/classes/WizardAjax.php:109
+msgid "Install and activate Popularis PRO"
+msgstr ""
+
+#: includes/panel/demos.php:317 includes/wizard/classes/WizardAjax.php:115
+msgid "Activate Popularis PRO license"
+msgstr ""
+
+#: includes/panel/demos.php:323
+msgid "Go to the next step"
+msgstr ""
+
+#: includes/panel/demos.php:337 includes/wizard/classes/WizardAjax.php:77
+msgid "Select what you want to import:"
+msgstr ""
+
+#: includes/panel/demos.php:343 includes/wizard/classes/WizardAjax.php:83
+msgid "Import XML Data"
+msgstr ""
+
+#: includes/panel/demos.php:343 includes/wizard/classes/WizardAjax.php:83
+msgid "pages, posts, images, menus, etc..."
+msgstr ""
+
+#: includes/panel/demos.php:350 includes/wizard/classes/WizardAjax.php:90
+msgid "Import Customizer Settings"
+msgstr ""
+
+#: includes/panel/demos.php:357 includes/wizard/classes/WizardAjax.php:97
+msgid "Import Widgets"
+msgstr ""
+
+#: includes/panel/demos.php:365
+msgid "Install this demo"
+msgstr ""
+
+#: includes/panel/demos.php:370 includes/wizard/classes/WizardAjax.php:125
+msgid "The import process could take some time, please be patient"
+msgstr ""
+
+#: includes/panel/demos.php:376 includes/wizard/classes/WizardAjax.php:131
+msgid "Demo Imported!"
+msgstr ""
+
+#: includes/panel/demos.php:377
+msgid "See the result"
+msgstr ""
+
+#: includes/panel/demos.php:426
+msgid "Get This Addon"
+msgstr ""
+
+#: includes/panel/demos.php:448
+msgid "No plugin specified"
+msgstr ""
+
+#: includes/panel/demos.php:468
+msgid "Plugin Successfully Activated"
+msgstr ""
+
+#: includes/panel/demos.php:490
+msgid "Importing XML Data"
+msgstr ""
+
+#: includes/panel/demos.php:496
+msgid "Importing Customizer Settings"
+msgstr ""
+
+#: includes/panel/demos.php:502
+msgid "Importing Widgets"
+msgstr ""
+
+#: includes/panel/demos.php:767
+msgid "Can not retrieve sample data xml file. The server may be down at the moment please try again later. If you still have issues contact the theme developer for assistance."
+msgstr ""
+
+#: includes/panel/demos.php:782
+msgid "The xml import file could not be accessed. Please try again or contact the theme developer."
+msgstr ""
+
+#: includes/panel/demos.php:818
+msgid "Can not retrieve class-wp-importer.php"
+msgstr ""
+
+#: includes/panel/demos.php:828
+msgid "Can not retrieve wordpress-importer.php"
+msgstr ""
+
+#: includes/panel/demos.php:839
+msgid "Sample data file appears corrupt or can not be accessed."
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:35
+#, php-format
+msgid "Successfully installed the plugin <strong>%s %s</strong>."
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:48
+msgid "Activate Plugin &amp; Run Importer"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:50
+msgid "Activate Plugin &amp; Return to Press This"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:52
+msgid "Activate Plugin"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:56
+msgid "Network Activate"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:61
+msgid "Return to Importers"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:63
+#: includes/wizard/classes/QuietSkin.php:65
+msgid "Return to Plugin Installer"
+msgstr ""
+
+#: includes/wizard/classes/QuietSkin.php:67
+msgid "Return to Plugins page"
+msgstr ""
+
+#: includes/wizard/classes/WizardAjax.php:119
+msgid "Import"
+msgstr ""
+
+#: includes/wizard/classes/WizardAjax.php:134
+msgid "The import didn't import well please contact the support."
+msgstr ""
+
+#: includes/wizard/wizard.php:114
+msgid "Are you ready to create an amazing website?"
+msgstr ""
+
+#: includes/wizard/wizard.php:117
+msgid "Skip setup"
+msgstr ""
+
+#: includes/wizard/wizard.php:144
+msgid "Welcome"
+msgstr ""
+
+#: includes/wizard/wizard.php:148
+msgid "Choosing Demo"
+msgstr ""
+
+#: includes/wizard/wizard.php:152
+msgid "Customize"
+msgstr ""
+
+#: includes/wizard/wizard.php:156
+msgid "Ready"
+msgstr ""
+
+#: includes/wizard/wizard.php:194
+msgid "PopularisWP &rsaquo; Setup Wizard"
+msgstr ""
+
+#: includes/wizard/wizard.php:377
+msgid "Setup Wizard"
+msgstr ""
+
+#: includes/wizard/wizard.php:378
+msgid "Welcome!"
+msgstr ""
+
+#: includes/wizard/wizard.php:382
+msgid "Thank you for choosing Popularis theme, in this quick setup wizard we'll take you through the 2 essential steps for you to get started building your dream website. Make sure to go through it to the end."
+msgstr ""
+
+#: includes/wizard/wizard.php:384
+msgid "Get started"
+msgstr ""
+
+#: includes/wizard/wizard.php:386
+msgid "Skip Setup Wizard"
+msgstr ""
+
+#: includes/wizard/wizard.php:410
+msgid "Selecting your demo template"
+msgstr ""
+
+#: includes/wizard/wizard.php:413
+#, php-format
+msgid "Clicking %1$sLive Preview%2$s will open the demo in a new window for you to decide which template to use. Then %1$sSelect%2$s the demo you want and click %1$sInstall Demo%2$s in the bottom."
+msgstr ""
+
+#: includes/wizard/wizard.php:458
+msgid "Select"
+msgstr ""
+
+#: includes/wizard/wizard.php:470
+msgid "Install Demo"
+msgstr ""
+
+#: includes/wizard/wizard.php:471 includes/wizard/wizard.php:575
+msgid "Skip Step"
+msgstr ""
+
+#: includes/wizard/wizard.php:478
+msgid "Next Step"
+msgstr ""
+
+#: includes/wizard/wizard.php:518
+msgid "Logo"
+msgstr ""
+
+#: includes/wizard/wizard.php:519
+msgid "Please add your logo below."
+msgstr ""
+
+#: includes/wizard/wizard.php:524 includes/wizard/wizard.php:565
+msgid "Upload"
+msgstr ""
+
+#: includes/wizard/wizard.php:532
+msgid "Site Title"
+msgstr ""
+
+#: includes/wizard/wizard.php:533
+msgid "Please add your Site Title below."
+msgstr ""
+
+#: includes/wizard/wizard.php:538
+msgid "Tagline"
+msgstr ""
+
+#: includes/wizard/wizard.php:539
+msgid "Please add your Tagline below."
+msgstr ""
+
+#: includes/wizard/wizard.php:559
+msgid "Site Icon"
+msgstr ""
+
+#: includes/wizard/wizard.php:560
+msgid "Site Icons are what you see in browser tabs, bookmark bars, and within the WordPress mobile apps. Upload one here! Site Icons should be square and at least 512 × 512 pixels."
+msgstr ""
+
+#: includes/wizard/wizard.php:574
+msgid "Continue"
+msgstr ""
+
+#: includes/wizard/wizard.php:617
+msgid "Hooray!"
+msgstr ""
+
+#: includes/wizard/wizard.php:618
+msgid "Your website is ready"
+msgstr ""
+
+#: includes/wizard/wizard.php:624
+msgid "View Your Website"
+msgstr ""
+
+#: library/extra-elementor/elementor-shortcode.php:26
+msgid "Shortcode"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:27
+msgid "Posts"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:42
+msgid "Blog"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:50
+msgid "Number of posts"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:59
+msgid "Posts per row"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:63
+msgid "1"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:64
+msgid "2"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:65
+msgid "3"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:66
+msgid "4"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:67
+msgid "6"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:75
+msgid "Categories"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:86
+msgid "Excerpt"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:105
+msgid "View"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:118
+msgid "Post title"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:125
+#: library/extra-elementor/elementor-widgets/posts.php:155
+#: library/extra-widgets/about-widget.php:300
+#: library/extra-widgets/social-widget.php:438
+msgid "Color"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:148
+msgid "Post content"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:178
+msgid "Post spacing"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/posts.php:185
+msgid "Spacing"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:24
+#: library/extra-elementor/elementor-widgets/text-block.php:46
+msgid "Advanced Text Block"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:54
+msgid "I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo."
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:55
+msgid "Type your description here"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:61
+msgid "HTML Tag"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:80
+msgid "Alignment"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:84
+msgid "Left"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:88
+msgid "Center"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:92
+msgid "Right"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:96
+msgid "Justify"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:109
+#: library/extra-elementor/elementor-widgets/text-block.php:128
+msgid "Typography"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:116
+msgid "Text Color"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:140
+msgid "On Scroll View Animation"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:147
+msgid "Choose Animation Effect"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:157
+msgid "Animation Delay"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:178
+msgid "Animation Duration"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:190
+msgid "Duration Speed"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:214
+msgid "No-animation"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:215
+msgid "FadeIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:216
+msgid "FlipXIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:217
+msgid "FlipYIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:218
+msgid "FlipBounceXIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:219
+msgid "FlipBounceYIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:220
+msgid "SwoopIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:221
+msgid "WhirlIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:222
+msgid "ShrinkIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:223
+msgid "ExpandIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:224
+msgid "BounceIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:225
+msgid "BounceUpIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:226
+msgid "BounceDownIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:227
+msgid "BounceLeftIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:228
+msgid "BounceRightIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:229
+msgid "SlideUpIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:230
+msgid "SlideDownIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:231
+msgid "SlideLeftIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:232
+msgid "SlideRightIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:233
+msgid "SlideUpBigIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:234
+msgid "SlideDownBigIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:235
+msgid "SlideLeftBigIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:236
+msgid "SlideRightBigIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:237
+msgid "PerspectiveUpIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:238
+msgid "PerspectiveDownIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:239
+msgid "PerspectiveLeftIn"
+msgstr ""
+
+#: library/extra-elementor/elementor-widgets/text-block.php:240
+msgid "PerspectiveRightIn"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:59
+msgid "Popularis: About Me"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:62
+msgid "Adds a about me widget."
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:266
+msgid "About Me"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:268
+msgid "John Doe"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:276
+#: library/extra-widgets/social-widget.php:376
+msgid "Title"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:281
+msgid "Image URL"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:283
+msgid "Upload Image"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:287
+msgid "Name:"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:292
+msgid "Description:"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:297
+msgid "Social Style:"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:301
+#: library/extra-widgets/social-widget.php:359
+#: library/extra-widgets/social-widget.php:383
+msgid "Light"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:302
+#: library/extra-widgets/social-widget.php:384
+msgid "Dark"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:307
+msgid "Social Link Target:"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:310
+#: library/extra-widgets/social-widget.php:404
+msgid "Blank"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:311
+#: library/extra-widgets/social-widget.php:405
+msgid "Self"
+msgstr ""
+
+#: library/extra-widgets/about-widget.php:318
+#: library/extra-widgets/social-widget.php:461
+msgid "Social Links"
+msgstr ""
+
+#: library/extra-widgets/popular-posts-widget.php:18
+msgid "Displays your popular posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: library/extra-widgets/popular-posts-widget.php:21
+msgid "Popularis: Popular posts"
+msgstr ""
+
+#: library/extra-widgets/popular-posts-widget.php:97
+msgid "Popular posts"
+msgstr ""
+
+#: library/extra-widgets/popular-posts-widget.php:102
+#: library/extra-widgets/recent-posts-widget.php:100
+msgid "Title:"
+msgstr ""
+
+#: library/extra-widgets/popular-posts-widget.php:108
+#: library/extra-widgets/recent-posts-widget.php:106
+msgid "Number of posts:"
+msgstr ""
+
+#: library/extra-widgets/recent-posts-widget.php:18
+msgid "Displays your recent posts with thumbnail and date. Recommended use: in sidebar or footer"
+msgstr ""
+
+#: library/extra-widgets/recent-posts-widget.php:21
+msgid "Popularis: Recent posts"
+msgstr ""
+
+#: library/extra-widgets/recent-posts-widget.php:95
+msgid "Recent posts"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:110
+msgid "Popularis: Social Icons"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:113
+msgid "Display your social media icons."
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:358
+msgid "Follow Us"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:360
+#: library/extra-widgets/social-widget.php:395
+msgid "Rotate"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:381
+msgid "Style:"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:385
+msgid "Colored"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:386
+msgid "Simple"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:391
+msgid "Transition:"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:393
+msgid "None"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:394
+msgid "Float"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:396
+msgid "Zoom Out"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:401
+msgid "Link Target"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:410
+msgid "Dimensions"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:412
+#: library/extra-widgets/social-widget.php:418
+#: library/extra-widgets/social-widget.php:424
+msgid "Example:"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:416
+msgid "Font Size"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:422
+msgid "Border Radius"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:428
+msgid "Background Color"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:433
+msgid "Background Color Hover"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:443
+msgid "Color Hover"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:448
+msgid "Border Color"
+msgstr ""
+
+#: library/extra-widgets/social-widget.php:453
+msgid "Border Color Hover"
+msgstr ""
+
+#: popularis-extra.php:146
+msgid "Go Pro"
+msgstr ""

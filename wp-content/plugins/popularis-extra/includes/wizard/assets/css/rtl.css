@@ -1,0 +1,138 @@
+html[dir="rtl"] .popularis-ready-wrap.popularis-wrap,
+html[dir="rtl"] .popularis-welcome-wrap.popularis-wrap {
+    text-align: center;
+}
+
+html[dir="rtl"] .popularis-wizard-setup-actions .continue i {
+    margin-right: 6px;
+    margin-left: 0;
+}
+
+html[dir="rtl"] .popularis-demo-wrap .popularis-navigation {
+	float: right;
+}
+
+html[dir="rtl"] .popularis-demo-wrap .popularis-navigation li {
+	float: right;
+}
+
+html[dir="rtl"] .popularis-demo-wrap .theme-wrap {
+	float: right;
+}
+
+html[dir="rtl"] .demo-import-loader {
+	right: 0;
+	left: auto;
+}
+
+html[dir="rtl"] .preview-icon i.custom-loader:before {
+    right: 50%;
+    left: auto;
+    margin-right: -15px;
+    margin-left: 0;
+    border-right-color: #000;
+    border-left-color: transparent;
+}
+
+html[dir="rtl"] #popularis-demo-popup-wrap,
+html[dir="rtl"] #popularis-demo-popup-wrap .popularis-demo-popup-overlay {
+	right: 0;
+	left: auto;
+}
+
+html[dir="rtl"] .popularis-demo-popup-content-inner .popularis-demo-popup-close {
+	left: 0;
+	right: auto;
+}
+
+html[dir="rtl"] .popularis-demo-popup-container {
+	right: 0;
+	left: auto;
+}
+
+html[dir="rtl"] .popularis-wrap,
+html[dir="rtl"] .popularis-demo-popup-content-wrap {
+	text-align: right;
+}
+
+html[dir="rtl"] #popularis-demo-popup-content h2.title:after {
+    right: 50%;
+    left: auto;
+    margin-right: -43px;
+    margin-left: 0;
+}
+
+html[dir="rtl"] .popularis-required-plugins .button {
+	float: left;
+}
+
+html[dir="rtl"] .popularis-loader .popularis-import-status p:before {
+    margin-left: 5px;
+    margin-right: 0;
+}
+
+html[dir="rtl"] .popularis-last a:after {
+    margin-right: 3px;
+    margin-left: 0;
+}
+
+html[dir="rtl"] ol.popularis-setup-steps li{
+	float: right;
+}
+
+html[dir="rtl"] ol.popularis-setup-steps li::before{
+    right: 50%;
+    left: auto;
+    margin-right: -6px;
+    margin-left: 0;
+}
+
+html[dir="rtl"] .field_group p {
+    padding-right: 21px;
+    padding-left: 0;
+}
+
+html[dir="rtl"] #popularis-demo-plugins h2.title:after,
+html[dir="rtl"] .popularis-demo-import-form-types h2.title:after,
+html[dir="rtl"] .popularis-loader h2.title:after{
+    right: 50%;
+    left: auto;
+	margin-right: -43px;
+	margin-left: 0;
+}
+
+html[dir="rtl"] #popularis-demo-import-form ul.popularis-popup-text {
+    text-align: right;
+}
+
+html[dir="rtl"] .theme-browser .theme .theme-actions, 
+html[dir="rtl"] .theme-browser .theme.active .theme-actions{
+	right: 0;
+	left: auto;
+	-webkit-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+html[dir="rtl"] .popularis-required-plugins .popularis-plugin {
+    text-align: right;
+}
+
+html[dir="rtl"] .popularis-customize-wrap .wp-color-picker {
+    float: right;
+}
+
+html[dir="rtl"] .popularis-customize-wrap .wp-picker-default,
+html[dir="rtl"] .popularis-customize-wrap .wp-picker-clear {
+	margin-right: 10%;
+	margin-left: 0;
+}
+
+html[dir="rtl"] .popularis-customize-wrap .wp-picker-input-wrap .button {
+	margin-right: 0;
+	float: left;
+}
+
+html[dir="rtl"] .popularis-newsletter .klaviyo_styling .klaviyo_field_group {
+    margin-left: 6px;
+    margin-right: 0;
+}

@@ -1,0 +1,189 @@
+/*
+Theme Name: Appointment Green
+Theme URI: https://webriti.com/appointment-green-child-version-details-page-1/
+Author: webriti
+Author URI: https://www.webriti.com
+Description: A Business theme which is ideal for creating a corporate / business website. Appointment Green theme is a child theme of appointment which has several sections such as slider, services , widget area, etc etc. The green of this theme makes your site looks clean and elegant. Appointment Green theme comes with various locales.
+Tags: full-width-template, threaded-comments, two-columns, right-sidebar, left-sidebar, sticky-post, custom-menu, translation-ready, blog, footer-widgets, featured-images
+Template: appointment
+Version: 1.2
+Requires at least: 4.5
+Tested up to: 5.4.2
+Requires PHP: 5.4
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: appointment-green
+*/
+
+/*===================================================================================*/
+/*  Navbar 6
+/*===================================================================================*/
+.nav li.open > a, .nav li.open > a:hover, .nav li.open > a:focus {
+    border-color: #649403;
+    }
+@media (max-width: 767px){
+.navbar-default .navbar-nav li.open .dropdown-menu > li > a {
+    color: #fff;
+}
+}
+.navbar.navbar6 {
+    border: none;
+    background-color: #ffffff;
+    padding: 0 0;
+}
+.navbar-default.navbar6 .navbar-nav > .active > a, 
+.navbar-default.navbar6 .navbar-nav > .active > a:hover, 
+.navbar-default.navbar6 .navbar-nav > .active > a:focus {
+    color: #7aa228;
+    background-color: transparent;
+}
+.navbar-default.navbar6 .navbar-nav > li > a {
+    color: #333333;
+}
+@media (min-width: 1100px) {
+
+  .navbar-default.navbar6 .navbar-nav > li > a {
+      border-radius: 0px;
+      padding: 15px 20px;
+  }
+  .navbar6 .nav.navbar-left {
+      padding: 0 0;
+  }
+  .navbar.navbar6 .navbar-right {
+        float: right !important;
+    }
+    .navbar6 .nav {
+      padding: 7px 0;
+  }
+  .index6 .contact-social.right {
+    float: right;
+    padding: 15px 0;
+  }
+}
+
+@media (max-width: 1100px) {
+  .navbar6 .nav.navbar-right {
+      padding: 0 0 12px ;
+  }
+}
+
+@media only screen and (max-width: 1100px) and (min-width: 600px) {
+    .index6 .navbar-brand {
+      float: left;
+  }
+  /*.index6 .contact-social.right {
+    float: right;
+  }*/
+}
+
+@media only screen and (max-width: 600px) and (min-width: 200px) {
+  .index6 .contact-social.right {
+      padding: 0 0;
+      float: none;
+  }
+}
+
+.navbar6 li .dropdown-toggle .sub-arrow::after {
+    content: '\f107';
+    font-family: "FontAwesome";
+    position: relative;
+    margin-left: 0;
+    color: #333333;
+    transition: all 0.3s ease-in-out 0s;
+}
+.navbar6 li.active .dropdown-toggle .sub-arrow::after,
+.navbar6 li a:hover .sub-arrow::after {color: #7aa228;}
+.navbar.navbar6 .navbar-nav > .active.open > a, 
+.navbar.navbar6 .navbar-nav > .active.open > a:hover, 
+.navbar.navbar6 .navbar-nav > .active.open > a:focus {
+    background-color: unset;
+    color: #7aa228;
+}
+.navbar6 ul li > a:after {
+    content: '';
+    display: block;
+    height: 2px;
+    width: 0px;
+    margin-top: 2px;
+    background: transparent;
+    transition: width .5s ease, background-color .5s ease;
+}
+.navbar-default.navbar6 .navbar-nav > li.active > a:after,
+.navbar6 ul li > a:hover:after {
+    width: 100%;
+    background: #7aa228;
+    left: 0;
+}
+.navbar-header.index6 {
+    text-align: center;
+    background-color: #333333;
+    float: none;
+}
+.navbar-header.index6 .navbar-brand {
+    padding: 15px 30px 15px;
+    margin-right: 0;
+}
+.index6 .head-contact-social li > a > i {
+    color: #7aa228;
+}
+.index6 .head-contact-social li {
+    background-color: unset;
+}
+.index6 .head-contact-social li:hover {
+    background-color: #ffffff !important;
+}
+.index6 .logo-link-url {
+    display: inline-block;
+    float: left;
+}
+.index6 .appointment_title_head ,
+.index6 .site-description {
+    color: #ffffff;
+}
+@media only screen and (min-width: 200px) and (max-width: 1100px) {
+.navbar6 .navbar-toggle {
+    color: #FFFFFF;
+    display: block;
+    float: none;
+    font-size: 12px;
+    font-weight: 700;
+    margin: 15px auto;
+    padding: 7px 15px;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+}
+}
+@media (max-width: 768px) {
+  .navbar-header.index6 .navbar-brand {
+    float: none;
+    display: inline-block;
+  }
+  .index6 .logo-link-url {float: none;}
+  .index6 .contact-social.right {display: inherit;}
+}
+/*===================================================================================*/
+/*  Service 6
+/*===================================================================================*/
+.Service-section.service6 .service-area:hover .service-icon i {
+    padding-top: 0px;
+}
+.Service-section.service6 .service-area:hover .service-icon i {
+    webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+    -webkit-transition: .5s all ease;
+    -moz-transition: .5s all ease;
+    transition: .5s all ease;
+}
+.Service-section.service6 .service-area{transition: .5s all ease;margin-bottom: 30px;}
+.Service-section.service6 .service-area:hover {
+    -webkit-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    -moz-box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+    box-shadow: 5px 7px 9px -4px rgb(158, 158, 158);
+}
+.Service-section.service6 .service-area{background-color: #7aa228;}
+.Service-section.service6 .service-area {padding: 30px 18px 45px;}
+.Service-section.service6 .service-area h3,
+.Service-section.service6 .service-icon i,
+.Service-section.service6 .service-area p {
+    color: #fff;}
+.page-template-default .site-branding-text  p:last-child, .page-template-fullwidth .site-branding-text  p:last-child {margin-bottom: 20px;}
